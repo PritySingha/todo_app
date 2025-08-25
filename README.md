@@ -1,7 +1,7 @@
-# ✅ Task 3 – To-Do List App
+# ✅ To-Do List App
 
-This repository contains my submission for **Task 3** of the **Oasis Infobyte Web Development & Design Internship (Level 2)**. The project is a dynamic To-Do List App built using HTML, CSS, and JavaScript. It allows users to add, delete, and manage tasks efficiently with localStorage support.
-
+A dynamic and responsive To-Do List App built using HTML, CSS, and JavaScript.  
+This project allows users to manage tasks efficiently with localStorage support and a clean UI.
 ---
 
 ## ✨ Features
@@ -33,18 +33,6 @@ OIBSIP_webdev_task3_todo_app/
 
 ---
 
-## 🔗 GitHub Repository
-
-[https://github.com/PritySingha/OIBSIP_webdev_task3_todo_app](https://github.com/PritySingha/OIBSIP_webdev_task3_todo_app)
-
----
-
-## 📢 LinkedIn Post
-
-I’ve shared my experience and demo on LinkedIn: [LinkedIn Post Link]
-
----
-
 ## 📌 Outcome
 
 This task helped me understand DOM manipulation, event handling, and localStorage integration. It also improved my ability to build interactive web apps and organize code for clarity.
@@ -52,3 +40,4 @@ This task helped me understand DOM manipulation, event handling, and localStorag
 ---
 
 Made with 💻 and 💖 by **Prity Singha**
+
